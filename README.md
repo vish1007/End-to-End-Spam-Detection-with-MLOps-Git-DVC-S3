@@ -1,4 +1,3 @@
-```markdown
 # 🚀 End-to-End Spam Detection with MLOps (Git + DVC + S3)
 
 This project demonstrates a **production-grade machine learning pipeline** for detecting spam messages using an **MLOps workflow** built with Git, DVC, and AWS S3. It shows how to manage datasets, parameters, metrics, and model versions efficiently.
